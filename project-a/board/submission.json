@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:10:04.578Z",
+  "savedAt": "2026-06-09T12:15:47.797Z",
   "groups": [
     {
       "id": "671d75bf-1b7d-40ea-94f2-91337a619dce",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "The requirement \"The course catalog is ugly\" is vague because the term \"ugly\" is subjective and does not specify what aspects of the catalog need improvement. It does not define measurable design or usability requirements.",
-    "ambiguity2": "",
+    "ambiguity2": "The requirement \"I want the app to warn me if I am choosing a class that starts at 8:00 AM because I will definitely oversleep\" is vague because it is based on a personal preference. It does not specify whether the warning applies to all students, only specific students, or whether users can configure the warning settings.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
