@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:59:21.579Z",
+  "savedAt": "2026-06-09T13:00:09.379Z",
   "groups": [
     {
       "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
@@ -46,6 +46,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "e864afa6-feed-4424-8878-eb026353ab02",
+      "title": "Create Item Auctions",
+      "description": "As a Student, I want to auction items, so that buyers can compete for high-demand products.\n\nAcceptance Criteria:\n- Sellers can create auction listings.\n- Buyers can submit bids.\n- Highest bid is displayed.\n- Auction closes at a specified time.",
+      "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Low",
       "owner": "Bùi Nhật Linh"
     }
   ],
