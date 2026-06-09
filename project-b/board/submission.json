@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:00:09.379Z",
+  "savedAt": "2026-06-09T13:01:57.505Z",
   "groups": [
     {
       "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
@@ -56,6 +56,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Low",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "e93c8573-7c12-4be1-98b3-975831bbb01e",
+      "title": "Manage Safe Exchange Zones",
+      "description": "As a Campus Police Officer, I want to manage approved Safe Exchange Zones, so that students have secure meeting locations.\n\nAcceptance Criteria:\n- Officers can add exchange zones.\n- Officers can update zone information.\n- Officers can disable unsafe locations.",
+      "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
       "owner": "Bùi Nhật Linh"
     }
   ],
