@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:53:10.675Z",
+  "savedAt": "2026-06-09T12:54:04.602Z",
   "groups": [
     {
       "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
@@ -22,8 +22,8 @@
     "ambiguity1": "The requirement \"This needs to be exclusive\" is vague because the term exclusive is unclear by itself. The requirement only becomes specific when it states that users must have a valid .edu email address. Without that clarification, different stakeholders may interpret exclusivity differently.",
     "ambiguity2": "The requirement \"We are worried about safety\" is vague because safety can refer to many different concerns. The requirement does not initially specify what safety measures should be implemented until Safe Exchange Zones are mentioned.",
     "conflictSolution": "There is a conflict between the Student Union President and the University Legal Team. The Student Union wants to collect a 2% transaction fee, while the Legal Team states that the university cannot process payments. The solution is for the marketplace to facilitate listings and communication only, while payments occur through external services such as Venmo or cash. Any optional membership or donation program should be handled separately from item transactions.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Security: Only users with valid .edu email addresses may create accounts.",
+    "nfr2": "Safety: The system should encourage safe in-person exchanges through designated meeting zones.",
+    "nfr3": "Usability: Users should be able to create listings quickly using barcode scanning."
   }
 }
