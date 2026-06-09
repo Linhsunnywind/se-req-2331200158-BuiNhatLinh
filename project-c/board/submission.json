@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-06-09T13:06:08.595Z",
+  "groups": [
+    {
+      "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "c50fe46d-9645-428c-977e-86c2f779eda7",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The requirement \"We need to reduce the queue\" is vague because it does not specify how much the queue should be reduced or how success will be measured. Different stakeholders may have different expectations of acceptable waiting times.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
