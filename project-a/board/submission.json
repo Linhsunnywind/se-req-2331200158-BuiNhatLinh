@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:22:41.576Z",
+  "savedAt": "2026-06-09T12:33:04.435Z",
   "groups": [
     {
       "id": "671d75bf-1b7d-40ea-94f2-91337a619dce",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "bd7eb5ca-e751-4b5d-b916-b9e0a53f1798",
+      "title": "Validate Course Prerequisites",
+      "description": "As a Student, I want the system to automatically validate course prerequisites, so that I know whether I am eligible to take a course before adding it to my roadmap.\n\nAcceptance Criteria:\n- When a student selects a course, the system checks prerequisite requirements.\n- If prerequisites are missing, a warning message is displayed.\n- The missing prerequisite courses are listed.\n- The student cannot register for a course that violates prerequisite rules.",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    }
+  ],
   "analysis": {
     "ambiguity1": "The requirement \"The course catalog is ugly\" is vague because the term \"ugly\" is subjective and does not specify what aspects of the catalog need improvement. It does not define measurable design or usability requirements.",
     "ambiguity2": "The requirement \"I want the app to warn me if I am choosing a class that starts at 8:00 AM because I will definitely oversleep\" is vague because it is based on a personal preference. It does not specify whether the warning applies to all students, only specific students, or whether users can configure the warning settings.",
