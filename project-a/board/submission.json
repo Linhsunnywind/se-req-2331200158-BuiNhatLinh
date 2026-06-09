@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-06-09T12:10:04.578Z",
+  "groups": [
+    {
+      "id": "671d75bf-1b7d-40ea-94f2-91337a619dce",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "e466b6f2-d0b1-4fe9-9cfc-a42c999832f8",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The requirement \"The course catalog is ugly\" is vague because the term \"ugly\" is subjective and does not specify what aspects of the catalog need improvement. It does not define measurable design or usability requirements.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
