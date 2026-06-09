@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:34:39.952Z",
+  "savedAt": "2026-06-09T12:36:57.706Z",
   "groups": [
     {
       "id": "671d75bf-1b7d-40ea-94f2-91337a619dce",
@@ -32,6 +32,26 @@
       "id": "5bdf8dba-ed60-441b-9e63-6060c0484c2c",
       "title": "Create Academic Roadmap",
       "description": "As a Student, I want to build and maintain an academic roadmap, so that I can plan my degree completion efficiently.\n\nAcceptance Criteria:\n- Students can add courses to future semesters.\n- The roadmap is saved successfully.\n- Planned courses remain visible after reloading the system.\n- Degree progress is displayed.",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "67ae0405-4656-4a19-aa77-046303661145",
+      "title": "Drag And Drop Course Planning",
+      "description": "As a Student, I want to drag and drop courses into a calendar view, so that I can easily visualize my academic schedule.\n\nAcceptance Criteria:\n- Courses can be dragged into semester slots.\n- Changes are reflected immediately.\n- Schedule conflicts are highlighted.\n- Students can move courses between semesters.",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "c3110f0c-9729-49cb-80e9-344fac94a8d7",
+      "title": "View Course Availability",
+      "description": "As a Student, I want to see course availability information, so that I can avoid planning around courses that are currently full.\n\nAcceptance Criteria:\n- The system retrieves seat availability from the live database.\n- Full classes are clearly marked.\n- Available seats are displayed when data exists.\n- Future courses can still be added to the roadmap even if future availability is unknown.",
       "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
       "status": "todo",
       "type": "User Story",
