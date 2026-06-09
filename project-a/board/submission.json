@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:39:41.096Z",
+  "savedAt": "2026-06-09T12:43:01.807Z",
   "groups": [
     {
       "id": "671d75bf-1b7d-40ea-94f2-91337a619dce",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "f3bad430-bd40-4862-914a-27767a6e8492",
+      "title": "NFR Epic 1: Security: Students must not be able to view another student's schedule",
+      "description": "Security: Students must not be able to view another student's schedule or academic information.",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "a71e87ff-329e-4c97-a8ac-cce499e2d2b4",
+      "title": "NFR Epic 2: Auditability: Every advisor prerequisite override must be recorded wit",
+      "description": "Auditability: Every advisor prerequisite override must be recorded with timestamp and advisor information.",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "8c5544e1-154f-492d-bada-fc17718f6365",
+      "title": "NFR Epic 3: Usability: The system should provide an intuitive drag-and-drop interf",
+      "description": "Usability: The system should provide an intuitive drag-and-drop interface for course planning.",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
