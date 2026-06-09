@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:13:32.138Z",
+  "savedAt": "2026-06-09T13:14:06.495Z",
   "groups": [
     {
       "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "Low",
       "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "d0c85225-73ed-4c8b-b4a7-0206d39116a2",
+      "title": "NFR Epic 1: Reliability: The kitchen display system must continue operating offlin",
+      "description": "Reliability: The kitchen display system must continue operating offline for at least 10 minutes and synchronize when the connection is restored.",
+      "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "70ebc41a-cf39-43b2-8ae7-04ef22361bfb",
+      "title": "NFR Epic 2: Performance: Order updates and sold-out status changes should appear i",
+      "description": "Performance: Order updates and sold-out status changes should appear immediately to users and kitchen staff.",
+      "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "de6a43d3-5ccd-41c6-bca3-1d753e79b755",
+      "title": "NFR Epic 3: Usability: Students should be able to easily filter menu items based o",
+      "description": "Usability: Students should be able to easily filter menu items based on allergy preferences.",
+      "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
