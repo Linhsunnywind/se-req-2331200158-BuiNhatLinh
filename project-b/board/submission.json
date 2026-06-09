@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:51:27.549Z",
+  "savedAt": "2026-06-09T12:52:07.049Z",
   "groups": [
     {
       "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "The requirement \"This needs to be exclusive\" is vague because the term exclusive is unclear by itself. The requirement only becomes specific when it states that users must have a valid .edu email address. Without that clarification, different stakeholders may interpret exclusivity differently.",
-    "ambiguity2": "",
+    "ambiguity2": "The requirement \"We are worried about safety\" is vague because safety can refer to many different concerns. The requirement does not initially specify what safety measures should be implemented until Safe Exchange Zones are mentioned.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
