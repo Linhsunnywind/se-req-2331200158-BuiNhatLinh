@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:06:08.595Z",
+  "savedAt": "2026-06-09T13:06:42.719Z",
   "groups": [
     {
       "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
@@ -20,7 +20,7 @@
   "tickets": [],
   "analysis": {
     "ambiguity1": "The requirement \"We need to reduce the queue\" is vague because it does not specify how much the queue should be reduced or how success will be measured. Different stakeholders may have different expectations of acceptable waiting times.",
-    "ambiguity2": "",
+    "ambiguity2": "The requirement \"It gives me anxiety\" is vague because anxiety is subjective and varies from person to person. The requirement does not define measurable behavior except the request to completely hide items containing peanuts.",
     "conflictSolution": "",
     "nfr1": "",
     "nfr2": "",
