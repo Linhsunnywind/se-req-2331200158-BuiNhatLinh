@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:33:04.435Z",
+  "savedAt": "2026-06-09T12:34:39.952Z",
   "groups": [
     {
       "id": "671d75bf-1b7d-40ea-94f2-91337a619dce",
@@ -22,6 +22,16 @@
       "id": "bd7eb5ca-e751-4b5d-b916-b9e0a53f1798",
       "title": "Validate Course Prerequisites",
       "description": "As a Student, I want the system to automatically validate course prerequisites, so that I know whether I am eligible to take a course before adding it to my roadmap.\n\nAcceptance Criteria:\n- When a student selects a course, the system checks prerequisite requirements.\n- If prerequisites are missing, a warning message is displayed.\n- The missing prerequisite courses are listed.\n- The student cannot register for a course that violates prerequisite rules.",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "5bdf8dba-ed60-441b-9e63-6060c0484c2c",
+      "title": "Create Academic Roadmap",
+      "description": "As a Student, I want to build and maintain an academic roadmap, so that I can plan my degree completion efficiently.\n\nAcceptance Criteria:\n- Students can add courses to future semesters.\n- The roadmap is saved successfully.\n- Planned courses remain visible after reloading the system.\n- Degree progress is displayed.",
       "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
       "status": "todo",
       "type": "User Story",
