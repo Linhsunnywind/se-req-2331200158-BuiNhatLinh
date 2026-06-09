@@ -1,0 +1,29 @@
+{
+  "savedAt": "2026-06-09T12:51:27.549Z",
+  "groups": [
+    {
+      "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
+      "name": "Blockers",
+      "color": "#2563eb"
+    },
+    {
+      "id": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "name": "Standard Work",
+      "color": "#059669"
+    },
+    {
+      "id": "e481e6f7-98be-479b-81e6-2333af0f7d4d",
+      "name": "Minors",
+      "color": "#d97706"
+    }
+  ],
+  "tickets": [],
+  "analysis": {
+    "ambiguity1": "The requirement \"This needs to be exclusive\" is vague because the term exclusive is unclear by itself. The requirement only becomes specific when it states that users must have a valid .edu email address. Without that clarification, different stakeholders may interpret exclusivity differently.",
+    "ambiguity2": "",
+    "conflictSolution": "",
+    "nfr1": "",
+    "nfr2": "",
+    "nfr3": ""
+  }
+}
