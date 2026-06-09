@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:01:57.505Z",
+  "savedAt": "2026-06-09T13:02:56.725Z",
   "groups": [
     {
       "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
@@ -67,6 +67,36 @@
       "type": "User Story",
       "priority": "High",
       "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "b0acec3a-e313-46a5-81c1-823af471c761",
+      "title": "NFR Epic 1: Security: Only users with valid .edu email addresses may create accoun",
+      "description": "Security: Only users with valid .edu email addresses may create accounts.",
+      "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "65f3a05f-2190-49ad-b025-f3f788c29bab",
+      "title": "NFR Epic 2: Safety: The system should encourage safe in-person exchanges through d",
+      "description": "Safety: The system should encourage safe in-person exchanges through designated meeting zones.",
+      "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
+    },
+    {
+      "id": "a824d29b-d838-4561-a59e-6680fa9e2475",
+      "title": "NFR Epic 3: Usability: Users should be able to create listings quickly using barco",
+      "description": "Usability: Users should be able to create listings quickly using barcode scanning.",
+      "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "status": "todo",
+      "type": "Epic",
+      "priority": "Medium",
+      "owner": ""
     }
   ],
   "analysis": {
