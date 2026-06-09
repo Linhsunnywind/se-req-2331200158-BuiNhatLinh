@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:09:14.990Z",
+  "savedAt": "2026-06-09T13:09:52.677Z",
   "groups": [
     {
       "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
@@ -22,6 +22,16 @@
       "id": "3bbd4aa4-a512-4ad3-9816-ef5f3317f21b",
       "title": "Place Mobile Food Orders",
       "description": "As a Student, I want to order food using my phone, so that I can avoid waiting in long cafeteria lines.\n\nAcceptance Criteria:\n- Students can browse the menu.\n- Students can place orders from their phones.\n- Orders are sent directly to the kitchen.\n- Order confirmation is displayed.",
+      "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "9dc2f31c-4694-4e91-a59b-eaf94f8e5a75",
+      "title": "Mark Menu Items As Sold Out",
+      "description": "As a Chef, I want to instantly mark menu items as sold out, so that students cannot continue ordering unavailable food.\n\nAcceptance Criteria:\n- Staff can mark items as sold out.\n- Sold-out status is updated immediately.\n- Students cannot order sold-out items.\n- Sold-out items are clearly indicated.",
       "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
       "status": "todo",
       "type": "User Story",
