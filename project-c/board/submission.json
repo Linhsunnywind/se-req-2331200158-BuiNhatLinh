@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:12:36.176Z",
+  "savedAt": "2026-06-09T13:13:32.138Z",
   "groups": [
     {
       "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
@@ -56,6 +56,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "Medium",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "290e5385-fc03-4715-bf2c-ac1e42724565",
+      "title": "Send Promotional Notifications",
+      "description": "As a Marketing Staff Member, I want to send promotional notifications to students, so that I can advertise daily specials and discounts.\n\nAcceptance Criteria:\n- Staff can create promotional messages.\n- Notifications can be scheduled.\n- Students receive notifications at the scheduled time.\n- Students can opt out of promotional notifications.",
+      "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Low",
       "owner": "Bùi Nhật Linh"
     }
   ],
