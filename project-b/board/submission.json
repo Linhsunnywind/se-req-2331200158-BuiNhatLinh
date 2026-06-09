@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:54:04.602Z",
+  "savedAt": "2026-06-09T12:57:03.299Z",
   "groups": [
     {
       "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "631505cf-0e70-43a4-a93b-7a26687e37d1",
+      "title": "Verify Student Email Accounts",
+      "description": "As a Student, I want to register using my .edu email address, so that only members of the university community can access the marketplace.\n\nAcceptance Criteria:\n- Users must provide a valid .edu email address.\n- Verification is required before account activation.\n- Non-.edu addresses are rejected.",
+      "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    }
+  ],
   "analysis": {
     "ambiguity1": "The requirement \"This needs to be exclusive\" is vague because the term exclusive is unclear by itself. The requirement only becomes specific when it states that users must have a valid .edu email address. Without that clarification, different stakeholders may interpret exclusivity differently.",
     "ambiguity2": "The requirement \"We are worried about safety\" is vague because safety can refer to many different concerns. The requirement does not initially specify what safety measures should be implemented until Safe Exchange Zones are mentioned.",
