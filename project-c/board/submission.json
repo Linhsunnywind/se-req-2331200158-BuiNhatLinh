@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:08:14.853Z",
+  "savedAt": "2026-06-09T13:09:14.990Z",
   "groups": [
     {
       "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
@@ -17,7 +17,18 @@
       "color": "#d97706"
     }
   ],
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "3bbd4aa4-a512-4ad3-9816-ef5f3317f21b",
+      "title": "Place Mobile Food Orders",
+      "description": "As a Student, I want to order food using my phone, so that I can avoid waiting in long cafeteria lines.\n\nAcceptance Criteria:\n- Students can browse the menu.\n- Students can place orders from their phones.\n- Orders are sent directly to the kitchen.\n- Order confirmation is displayed.",
+      "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    }
+  ],
   "analysis": {
     "ambiguity1": "The requirement \"We need to reduce the queue\" is vague because it does not specify how much the queue should be reduced or how success will be measured. Different stakeholders may have different expectations of acceptable waiting times.",
     "ambiguity2": "The requirement \"It gives me anxiety\" is vague because anxiety is subjective and varies from person to person. The requirement does not define measurable behavior except the request to completely hide items containing peanuts.",
