@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:07:23.692Z",
+  "savedAt": "2026-06-09T13:08:14.853Z",
   "groups": [
     {
       "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
@@ -22,8 +22,8 @@
     "ambiguity1": "The requirement \"We need to reduce the queue\" is vague because it does not specify how much the queue should be reduced or how success will be measured. Different stakeholders may have different expectations of acceptable waiting times.",
     "ambiguity2": "The requirement \"It gives me anxiety\" is vague because anxiety is subjective and varies from person to person. The requirement does not define measurable behavior except the request to completely hide items containing peanuts.",
     "conflictSolution": "There is a conflict between the Marketing Department and students who may not want to receive frequent notifications. The solution is to allow students to opt in or opt out of promotional push notifications while still receiving important order-related notifications.",
-    "nfr1": "",
-    "nfr2": "",
-    "nfr3": ""
+    "nfr1": "Reliability: The kitchen display system must continue operating offline for at least 10 minutes and synchronize when the connection is restored.",
+    "nfr2": "Performance: Order updates and sold-out status changes should appear immediately to users and kitchen staff.",
+    "nfr3": "Usability: Students should be able to easily filter menu items based on allergy preferences."
   }
 }
