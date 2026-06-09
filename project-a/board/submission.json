@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:38:45.876Z",
+  "savedAt": "2026-06-09T12:39:41.096Z",
   "groups": [
     {
       "id": "671d75bf-1b7d-40ea-94f2-91337a619dce",
@@ -52,6 +52,16 @@
       "id": "c3110f0c-9729-49cb-80e9-344fac94a8d7",
       "title": "View Course Availability",
       "description": "As a Student, I want to see course availability information, so that I can avoid planning around courses that are currently full.\n\nAcceptance Criteria:\n- The system retrieves seat availability from the live database.\n- Full classes are clearly marked.\n- Available seats are displayed when data exists.\n- Future courses can still be added to the roadmap even if future availability is unknown",
+      "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "962f8022-f1d8-4bc3-b0ad-82dd83e8f3b7",
+      "title": "Override Prerequisite Rules",
+      "description": "As an Advisor, I want to override prerequisite restrictions for specific students, so that I can approve exceptional academic situations.\n\nAcceptance Criteria:\n- Advisors can override prerequisite requirements.\n- A justification is required before approval.\n- The override action is logged.\n- The log records advisor identity and timestamp.",
       "groupId": "66276967-7ac3-44b0-b916-798ead88c1a8",
       "status": "todo",
       "type": "User Story",
