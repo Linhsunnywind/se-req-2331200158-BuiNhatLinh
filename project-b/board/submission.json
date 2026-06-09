@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T12:58:41.034Z",
+  "savedAt": "2026-06-09T12:59:21.579Z",
   "groups": [
     {
       "id": "d4ee730a-128b-4369-8f16-6eefbe30920b",
@@ -32,6 +32,16 @@
       "id": "e20651ea-f149-43ec-9d1b-02f3a427cbbe",
       "title": "Use Safe Exchange Zones",
       "description": "As a Student, I want to select a Safe Exchange Zone for meetups, so that transactions occur in secure locations.\n\nAcceptance Criteria:\n- Safe Exchange Zones are displayed.\n- Users must select a zone before chatting.\n- Selected zone information is visible to both users.",
+      "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "085ae136-46e1-4aac-8c7d-9b290a6456a6",
+      "title": "Scan Item Barcode",
+      "description": "As a Student, I want to scan an item's barcode, so that listing textbooks and products is faster.\n\nAcceptance Criteria:\n- Camera access is supported.\n- Barcode information populates listing details.\n- Users can edit imported information before publishing.",
       "groupId": "16a9d7d4-b1b2-4397-a90c-780288a0fc59",
       "status": "todo",
       "type": "User Story",
