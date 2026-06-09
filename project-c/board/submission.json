@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-06-09T13:09:52.677Z",
+  "savedAt": "2026-06-09T13:10:23.389Z",
   "groups": [
     {
       "id": "58be5def-4f78-4e6b-8232-d7ac92e3dbb7",
@@ -36,6 +36,16 @@
       "status": "todo",
       "type": "User Story",
       "priority": "High",
+      "owner": "Bùi Nhật Linh"
+    },
+    {
+      "id": "e53d0b5b-8212-4a00-955c-c6211263a06d",
+      "title": "Filter Menu By Allergies",
+      "description": "As a Student with food allergies, I want to filter menu items by allergens, so that I only see food that is safe for me.\n\nAcceptance Criteria:\n- Students can select allergen filters.\n- Matching menu items are displayed.\n- Filtered allergens are hidden from the menu.\n- Filter preferences remain active during browsing.",
+      "groupId": "bc804dfd-94f3-421f-a729-882bc8910d6f",
+      "status": "todo",
+      "type": "User Story",
+      "priority": "Medium",
       "owner": "Bùi Nhật Linh"
     }
   ],
